@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/mongte/fonts#readme",
   "publishConfig": {
-    "mongte:registry": "https://npm.pkg.github.com"
+    "mongte:registry": "https://registry.npmjs.org"
   }
 }
