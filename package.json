@@ -1,6 +1,6 @@
 {
   "name": "mongte-fonts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "private fonts",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/mongte/fonts#readme",
   "publishConfig": {
-    "@dokyun.kim:registry": "https://npm.pkg.github.com"
+    "mongte:registry": "https://npm.pkg.github.com"
   }
 }
